@@ -1,6 +1,4 @@
-﻿# TensorFlow-PyTorch
-
-## 📌 TensorFlow vs PyTorch: 어떤 관계인지 정리
+## 📌 TensorFlow vs PyTorch: 관계 정리
 
 
 ✅ 1. 둘 다 딥러닝 프레임워크 (공통점)
@@ -58,3 +56,4 @@ TensorFlow Serving, TensorFlow Lite, TensorFlow.js 등 배포 생태계가 풍�
 그래프	정적 그래프 중심	동적 그래프 중심
 난이도	상대적으로 높음	더 쉬움
 사용 분야	실제 서비스, 모바일	연구, 논문, 실험
+
